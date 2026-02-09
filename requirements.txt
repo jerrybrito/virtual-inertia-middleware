@@ -1,0 +1,2 @@
+# Requires: eternal-unlikelihood
+# (Not available on PyPI)
